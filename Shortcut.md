@@ -21,6 +21,8 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 
 ## Visual Studio Code :
 
+- `Ctrl + shift + l` Sélectionne le mots partous dans le fichier
+
 -  `Ctrl + shift + v` Permet d'ouvrir la prévisualisation d'un .md
 - `Ctrl + n` Créer un nouveau fichier
 
