@@ -16,7 +16,9 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 - `Alt + Flèche gauche` Revient à la page précédente
 - `Alt + Flèche droite` Revient à la page suivante
 
-
+## XFCE Term :
+- `Ctrl + u` Suprime la saisie
+- 
 
 
 ## Visual Studio Code :
