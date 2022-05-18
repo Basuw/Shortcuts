@@ -12,6 +12,7 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 - `Ctrl + f` Recherche un élément dans la page
 - `Ctrl + r` Recharge la page
 - `Ctrl + d` Ajoute la page aux favoris
+
 ### Marche aussi avec les boutons supplémentaire de la souris
 - `Alt + Flèche gauche` Revient à la page précédente
 - `Alt + Flèche droite` Revient à la page suivante
